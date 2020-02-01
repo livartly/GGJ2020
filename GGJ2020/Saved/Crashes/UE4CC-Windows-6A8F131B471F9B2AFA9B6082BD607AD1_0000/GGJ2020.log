@@ -1,0 +1,747 @@
+﻿Log file open, 02/01/20 15:39:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GGJ2020
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.430152
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.090s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.01-21.39.08:174][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.01-21.39.08:174][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.01-21.39.08:174][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-21.39.08:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.01-21.39.08:175][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.02.01-21.39.08:176][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.01-21.39.08:176][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.01-21.39.08:176][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.01-21.39.08:176][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.01-21.39.08:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-21.39.08:176][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-21.39.08:186][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-21.39.08:186][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-21.39.08:187][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-21.39.08:188][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-21.39.08:189][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-21.39.08:189][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-21.39.08:189][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.01-21.39.08:210][  0]LogHAL: Display: Platform has ~ 16 GB [17077739520 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.01-21.39.08:210][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.02.01-21.39.08:210][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.01-21.39.08:210][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:210][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.01-21.39.08:210][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.01-21.39.08:210][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:210][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.01-21.39.08:210][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:210][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.01-21.39.08:210][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.01-21.39.08:211][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.01-21.39.08:212][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Scalability.ini]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.01-21.39.08:213][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.01-21.39.08:214][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.01-21.39.08:214][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Config/Windows/Engine.ini]
+[2020.02.01-21.39.08:214][  0]LogInit: Computer: LAPTOP-BRDQPFBV
+[2020.02.01-21.39.08:214][  0]LogInit: User: Liv
+[2020.02.01-21.39.08:214][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.01-21.39.08:214][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.01-21.39.08:215][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.01-21.39.08:215][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.01-21.39.08:215][  0]LogMemory: Process Physical Memory: 106.87 MB used, 106.88 MB peak
+[2020.02.01-21.39.08:215][  0]LogMemory: Process Virtual Memory: 86.18 MB used, 86.18 MB peak
+[2020.02.01-21.39.08:215][  0]LogMemory: Physical Memory: 8046.51 MB used,  8240.09 MB free, 16286.60 MB total
+[2020.02.01-21.39.08:215][  0]LogMemory: Virtual Memory: 4648.68 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.02.01-21.39.08:303][  0]LogInit: Using OS detected language (en-US).
+[2020.02.01-21.39.08:303][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.01-21.39.08:305][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.01-21.39.08:672][  0]LogStreaming: Display: Took  0.369s to InitEngineTextLocalization.
+[2020.02.01-21.39.08:672][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.01-21.39.08:724][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.01-21.39.08:724][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.01-21.39.08:888][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-21.39.08:888][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.01-21.39.08:911][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.01-21.39.08:911][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.02.01-21.39.08:975][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.02.01-21.39.08:975][  0]LogD3D11RHI:       6061/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2020.02.01-21.39.08:978][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.01-21.39.08:978][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.01-21.39.08:978][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2020.02.01-21.39.08:987][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.01-21.39.08:987][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.01-21.39.08:987][  0]LogWindows: EnumDisplayDevices:
+[2020.02.01-21.39.08:987][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.02.01-21.39.08:988][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.01-21.39.08:988][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.01-21.39.08:988][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.02.01-21.39.08:988][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.02.01-21.39.08:989][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.02.01-21.39.08:989][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.02.01-21.39.08:989][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.01-21.39.08:989][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.02.01-21.39.08:989][  0]LogD3D11RHI:   Driver Version: 389.04 (internal:23.21.13.8904, unified:389.04)
+[2020.02.01-21.39.08:989][  0]LogD3D11RHI:      Driver Date: 2-22-2018
+[2020.02.01-21.39.08:989][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2020.02.01-21.39.09:025][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.01-21.39.09:036][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.01-21.39.09:737][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.02.01-21.39.09:756][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.02.01-21.39.09:776][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.02.01-21.39.09:795][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.02.01-21.39.09:813][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.02.01-21.39.09:830][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.02.01-21.39.09:844][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.02.01-21.39.09:859][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.02.01-21.39.09:867][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:951][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.01-21.39.09:953][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.02.01-21.39.10:050][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.01-21.39.10:050][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.01-21.39.10:095][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.01-21.39.10:095][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.01-21.39.10:120][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.02.01-21.39.10:143][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.02.01-21.39.10:167][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.02.01-21.39.10:208][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.02.01-21.39.10:315][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.01-21.39.10:315][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.01-21.39.10:315][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.01-21.39.10:508][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Intermediate/Shaders/WorkingDirectory/13772/).
+[2020.02.01-21.39.10:508][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Liv/AppData/Local/Temp/UnrealShaderWorkingDir/5A1FF12E4A38DF21AA4E31B3CB8FFAAC/'.
+[2020.02.01-21.39.10:515][  0]LogXGEController: Cleaning working directory: C:/Users/Liv/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.01-21.39.10:516][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.01-21.39.10:517][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.01-21.39.10:517][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.01-21.39.11:188][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.01-21.39.11:242][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Liv/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.01-21.39.11:242][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Liv/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.02.01-21.39.11:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.01-21.39.11:243][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.01-21.39.11:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.01-21.39.11:243][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.01-21.39.11:258][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.01-21.39.11:262][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.02.01-21.39.11:273][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Liv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.01-21.39.11:273][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.01-21.39.11:273][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.01-21.39.11:298][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.01-21.39.11:299][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.01-21.39.11:300][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.01-21.39.11:390][  0]LogAssetRegistry: FAssetRegistry took 0.0343 seconds to start up
+[2020.02.01-21.39.11:755][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.01-21.39.11:961][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.02.01-21.39.11:972][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.02.01-21.39.11:972][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.01-21.39.11:972][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.01-21.39.11:972][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.02.01-21.39.12:008][  0]LogNetVersion: GGJ2020 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 804154147)
+[2020.02.01-21.39.13:143][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.124905 seconds
+[2020.02.01-21.39.13:149][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.02.01-21.39.13:149][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.02.01-21.39.13:149][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.01-21.39.14:364][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2020.02.01-21.39.14:372][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.01-21.39.14:388][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.01-21.39.15:100][  0]SourceControl: Source control is disabled
+[2020.02.01-21.39.15:100][  0]SourceControl: Source control is disabled
+[2020.02.01-21.39.15:105][  0]SourceControl: Source control is disabled
+[2020.02.01-21.39.15:108][  0]SourceControl: Source control is disabled
+[2020.02.01-21.39.15:447][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.01-21.39.15:734][  0]LogOcInput: OculusInput pre-init called
+[2020.02.01-21.39.17:633][  0]LogEngine: Initializing Engine...
+[2020.02.01-21.39.17:634][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.01-21.39.17:638][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.01-21.39.17:638][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.01-21.39.17:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2020.02.01-21.39.17:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.01-21.39.17:963][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.01-21.39.17:995][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.01-21.39.18:052][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.01-21.39.18:096][  0]LogInit: FAudioDevice initialized.
+[2020.02.01-21.39.18:096][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.01-21.39.18:174][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Liv/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.01-21.39.18:181][  0]LogInit: Texture streaming: Enabled
+[2020.02.01-21.39.18:223][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.01-21.39.18:223][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={FD329B37-4308-ADAC-74CF-25964CC526AB}
+[2020.02.01-21.39.18:249][  0]LogInit: Transaction tracking system initialized
+[2020.02.01-21.39.18:321][  0]BlueprintLog: New page: Editor Load
+[2020.02.01-21.39.18:484][  0]LocalizationService: Localization service is disabled
+[2020.02.01-21.39.19:207][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/' took 0.02s
+[2020.02.01-21.39.19:207][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.01-21.39.19:207][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.01-21.39.19:207][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.02.01-21.39.19:207][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.01-21.39.19:207][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.01-21.39.19:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.02.01-21.39.19:208][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.01-21.39.20:608][  0]SourceControl: Source control is disabled
+[2020.02.01-21.39.20:610][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-21.39.20:611][  0]LightingResults: New page: Lighting Build
+[2020.02.01-21.39.20:619][  0]MapCheck: New page: Map Check
+[2020.02.01-21.39.20:619][  0]LightingResults: New page: Lighting Build
+[2020.02.01-21.39.20:922][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.01-21.39.20:928][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-21.39.20:957][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-21.39.20:957][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2020.02.01-21.39.20:957][  0]LogFileHelpers: Loading map 'Template_Default' took 0.349
+[2020.02.01-21.39.21:075][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-21.39.21:082][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-21.39.21:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-21.39.21:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.01-21.39.21:103][  0]LogCollectionManager: Loaded 0 collections in 0.001593 seconds
+[2020.02.01-21.39.21:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Collections/' took 0.01s
+[2020.02.01-21.39.21:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Developers/Liv/Collections/' took 0.01s
+[2020.02.01-21.39.21:144][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Collections/' took 0.01s
+[2020.02.01-21.39.21:144][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.01-21.39.21:159][  0]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2723 classes and 659 folders.
+[2020.02.01-21.39.21:178][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.01-21.39.21:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.01-21.39.21:251][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.01-21.39.21:259][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.01-21.39.21:307][  0]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.01-21.39.21:314][  0]LogSlate: Took 0.000421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.01-21.39.21:338][  0]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.01-21.39.21:489][  0]LogRenderer: Reallocating scene render targets to support 1180x696 Format 10 NumSamples 1 (Frame:1).
+[2020.02.01-21.39.21:834][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.02.01-21.39.21:834][  0]LogLoad: (Engine Initialization) Total time: 15.86 seconds
+[2020.02.01-21.39.21:834][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.01-21.39.21:949][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.01-21.39.21:959][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-21.39.21:963][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2020.02.01-21.39.22:001][  1]LogAssetRegistry: Asset discovery search completed in 10.6335 seconds
+[2020.02.01-21.39.22:003][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.01-21.39.22:003][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.02.01-21.39.24:715][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-21.39.32:737][297]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.01-21.39.33:365][297]LogBlueprint: Warning: [Compiler ProductViewer_Touch_Pawn] Input Axis Event references unknown Axis 'pinch' for  InputAxis pinch
+[2020.02.01-21.39.33:502][297]LogBlueprint: Warning: [Compiler ProductViewer_Touch_Pawn] [0027.53] Compile of ProductViewer_Touch_Pawn successful, but with 1 Warning(s) [in 325 ms] (/Game/ProductViewer/Blueprints/ProductViewer_Touch_Pawn.ProductViewer_Touch_Pawn)
+[2020.02.01-21.39.35:218][297]LogAIModule: Creating AISystem for world ToPlay
+[2020.02.01-21.39.35:235][297]LogAssetEditorManager: Opening Asset editor for World /Game/ToPlay.ToPlay
+[2020.02.01-21.39.35:271][297]Cmd: MAP LOAD FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/ToPlay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.01-21.39.35:271][297]LightingResults: New page: Lighting Build
+[2020.02.01-21.39.35:272][297]LoadErrors: New page: Loading map: ToPlay.umap
+[2020.02.01-21.39.35:272][297]MapCheck: New page: Map Check
+[2020.02.01-21.39.35:272][297]LightingResults: New page: Lighting Build
+[2020.02.01-21.39.35:306][297]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.01-21.39.35:349][297]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.01-21.39.35:350][297]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2020.02.01-21.39.35:350][297]LogFileHelpers: Loading map 'ToPlay' took 0.080
+[2020.02.01-21.39.53:873][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CrewAndServiceModule_group34_pCylinder26)
+[2020.02.01-21.39.55:446][879]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.01-21.39.58:859][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.01-21.39.59:194][924]LogSlate: Window 'Substance Plugin - Entitlement Check' being destroyed
+[2020.02.01-21.39.59:239][924]LogSubstanceSource: Loading Substance Source Database
+[2020.02.01-21.39.59:503][924]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Plugins/Marketplace/Substance/Content/SourceFont/Gotham Book Regular.otf' (29K)
+[2020.02.01-21.40.06:563][ 10]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 415X415)
+[2020.02.01-21.40.06:611][ 10]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 415X415)
+[2020.02.01-21.40.06:660][ 10]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 415X415)
+[2020.02.01-21.40.06:691][ 10]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 415X415)
+[2020.02.01-21.40.06:712][ 10]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 415X415)
+[2020.02.01-21.40.06:731][ 10]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 415X415)
+[2020.02.01-21.40.06:752][ 10]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 415X415)
+[2020.02.01-21.40.06:773][ 10]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 415X415)
+[2020.02.01-21.40.06:822][ 11]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 415X415)
+[2020.02.01-21.40.06:843][ 11]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 415X415)
+[2020.02.01-21.40.06:864][ 11]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 415X415)
+[2020.02.01-21.40.06:884][ 11]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 415X415)
+[2020.02.01-21.40.45:098][255]LogSubstanceSource: User Logged In Successfully
+[2020.02.01-21.40.50:099][257]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 415X415)
+[2020.02.01-21.40.50:119][257]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 415X415)
+[2020.02.01-21.40.50:138][257]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 415X415)
+[2020.02.01-21.40.50:156][257]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 415X415)
+[2020.02.01-21.40.50:175][257]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 415X415)
+[2020.02.01-21.40.50:194][257]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 415X415)
+[2020.02.01-21.40.50:212][257]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 415X415)
+[2020.02.01-21.40.50:230][257]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 415X415)
+[2020.02.01-21.40.50:249][257]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 415X415)
+[2020.02.01-21.40.50:269][257]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 415X415)
+[2020.02.01-21.40.50:286][257]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 415X415)
+[2020.02.01-21.40.50:317][258]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 415X415)
+[2020.02.01-21.43.53:415][912]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 415X415)
+[2020.02.01-21.43.53:453][912]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 415X415)
+[2020.02.01-21.43.53:488][912]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 415X415)
+[2020.02.01-21.43.53:522][912]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 415X415)
+[2020.02.01-21.43.53:557][912]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 415X415)
+[2020.02.01-21.43.53:597][912]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 415X415)
+[2020.02.01-21.43.53:672][913]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 415X415)
+[2020.02.01-21.43.56:525][946]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Substance/steel_glossy.sbsar)
+[2020.02.01-21.43.57:230][946]LogMaterial: Display: Missing cached shader map for material Steel_Glossy_MAT, compiling. 
+[2020.02.01-21.43.57:361][947]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.01-21.43.57:361][947]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.01-21.43.57:361][947]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.01-21.44.05:651][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/steel_glossy" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/steel_glossy.uasset" SILENT=true
+[2020.02.01-21.44.05:655][ 79]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/steel_glossyB8CBBC3D450B0011D64FD5977FA363F1.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/steel_glossy.uasset'
+[2020.02.01-21.44.05:702][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Steel_Glossy_INST" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_INST.uasset" SILENT=true
+[2020.02.01-21.44.05:706][ 79]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Steel_Glossy_INSTC699B62C4C52AF40F626C88D263129BE.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_INST.uasset'
+[2020.02.01-21.44.05:826][ 79]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Steel_Glossy_INST_basecolor14764C0C4413CCC1AF4F3A8692223663.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_INST_basecolor.uasset'
+[2020.02.01-21.44.05:873][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Steel_Glossy_INST_normal" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_INST_normal.uasset" SILENT=true
+[2020.02.01-21.44.05:900][ 79]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Steel_Glossy_INST_normal9A98CCD64D51D269C5D7B4ACBDD28877.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_INST_normal.uasset'
+[2020.02.01-21.44.05:977][ 79]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Steel_Glossy_INST_specular7D7F2C164E27A4580361EB8823927A75.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_INST_specular.uasset'
+[2020.02.01-21.44.06:053][ 79]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Steel_Glossy_INST_roughnessE8816C654EF2D1FAF8B4E1A518D6725B.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_INST_roughness.uasset'
+[2020.02.01-21.44.06:116][ 79]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Steel_Glossy_INST_metallic9A81DAF849374D303856558DC8B44C23.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_INST_metallic.uasset'
+[2020.02.01-21.44.06:193][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Steel_Glossy_MAT" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_MAT.uasset" SILENT=true
+[2020.02.01-21.44.06:239][ 79]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Steel_Glossy_MAT3B68F6D341CAA3908B2E7FBD4D75AB23.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Steel_Glossy_MAT.uasset'
+[2020.02.01-21.44.07:844][ 97]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Substance/metal_grinded.sbsar)
+[2020.02.01-21.44.08:945][ 97]LogMaterial: Display: Missing cached shader map for material Metal_Grinded_MAT, compiling. 
+[2020.02.01-21.44.08:962][ 97]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.01-21.44.08:962][ 97]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.01-21.44.08:962][ 97]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.01-21.44.15:934][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/metal_grinded" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/metal_grinded.uasset" SILENT=true
+[2020.02.01-21.44.15:936][165]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/metal_grinded4D757CD54B4DF6BAF8BD9AB2B41F7159.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/metal_grinded.uasset'
+[2020.02.01-21.44.16:042][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Metal_Grinded_INST" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_INST.uasset" SILENT=true
+[2020.02.01-21.44.16:048][165]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Metal_Grinded_INST82A59F484E9D849E8BC1FD8F763B613C.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_INST.uasset'
+[2020.02.01-21.44.16:219][165]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Metal_Grinded_INST_basecolor1C4FBA904BAA21EEEA4BC2A3D9254B9A.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_INST_basecolor.uasset'
+[2020.02.01-21.44.16:277][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Metal_Grinded_INST_normal" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_INST_normal.uasset" SILENT=true
+[2020.02.01-21.44.16:327][165]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Metal_Grinded_INST_normal8DE4AF7C4C0E525E44E76E908A2EF0AE.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_INST_normal.uasset'
+[2020.02.01-21.44.16:409][165]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Metal_Grinded_INST_specularECCC0B364784E7B278D73CB4BF51D779.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_INST_specular.uasset'
+[2020.02.01-21.44.16:510][165]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Metal_Grinded_INST_roughnessBEB775534138F92DB8FAE199C90CB550.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_INST_roughness.uasset'
+[2020.02.01-21.44.16:590][165]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Metal_Grinded_INST_metallic517352CD49FC5F988151F8BDC2DC2C48.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_INST_metallic.uasset'
+[2020.02.01-21.44.16:670][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Metal_Grinded_MAT" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_MAT.uasset" SILENT=true
+[2020.02.01-21.44.16:709][165]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Metal_Grinded_MAT550D52B2486910E21C2F038578942E3D.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Metal_Grinded_MAT.uasset'
+[2020.02.01-21.44.23:957][256]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Substance/concrete_raw_grey.sbsar)
+[2020.02.01-21.44.24:424][256]LogMaterial: Display: Missing cached shader map for material Raw_Grey_Concrete_MAT, compiling. 
+[2020.02.01-21.44.24:439][256]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.01-21.44.24:439][256]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.01-21.44.24:439][256]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.01-21.44.31:078][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/concrete_raw_grey" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/concrete_raw_grey.uasset" SILENT=true
+[2020.02.01-21.44.31:080][407]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/concrete_raw_grey6D8EEAF146015777296605A91C3D8D84.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/concrete_raw_grey.uasset'
+[2020.02.01-21.44.31:132][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Raw_Grey_Concrete_INST" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_INST.uasset" SILENT=true
+[2020.02.01-21.44.31:137][407]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Raw_Grey_Concrete_INST944AA9544F76CB4EE85CC0AD6F1D36E6.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_INST.uasset'
+[2020.02.01-21.44.31:250][407]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Raw_Grey_Concrete_INST_basecolor4037ADF7431648DE6431838C551A0FEB.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_INST_basecolor.uasset'
+[2020.02.01-21.44.31:328][407]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Raw_Grey_Concrete_INST_normal99B60B624F729B0D3F66EC8ABA781A70.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_INST_normal.uasset'
+[2020.02.01-21.44.31:387][407]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Raw_Grey_Concrete_INST_specularD0B03091406D9E46B49A6DB1E733863F.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_INST_specular.uasset'
+[2020.02.01-21.44.31:467][407]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Raw_Grey_Concrete_INST_roughness841D7ED24F8AAF2152F09E8D0DB32594.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_INST_roughness.uasset'
+[2020.02.01-21.44.31:521][407]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Raw_Grey_Concrete_INST_metallic270CC0824A2F3F42AEBCA89627A82F16.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_INST_metallic.uasset'
+[2020.02.01-21.44.31:605][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Raw_Grey_Concrete_MAT" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_MAT.uasset" SILENT=true
+[2020.02.01-21.44.31:642][407]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Raw_Grey_Concrete_MAT6B363E74472E7B6CB7FCAF8CD34FAB25.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Raw_Grey_Concrete_MAT.uasset'
+[2020.02.01-21.44.34:302][439]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Substance/insulation_foil.sbsar)
+[2020.02.01-21.44.34:323][439]LogSubstanceCore: Warning: Failed to find Image Input UAsset for - Custom Image Input.
+[2020.02.01-21.44.34:849][439]LogMaterial: Display: Missing cached shader map for material Insulation_Foil_MAT, compiling. 
+[2020.02.01-21.44.34:955][440]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.01-21.44.34:955][440]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.01-21.44.34:955][440]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.01-21.44.41:889][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/insulation_foil" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/insulation_foil.uasset" SILENT=true
+[2020.02.01-21.44.41:897][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/insulation_foilDF3F1C2542ECC2BC9F7F309973BB8144.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/insulation_foil.uasset'
+[2020.02.01-21.44.41:940][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Insulation_Foil_INST" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_INST.uasset" SILENT=true
+[2020.02.01-21.44.41:945][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Insulation_Foil_INST0925F0D94B439A202CC6DBBDFE711902.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_INST.uasset'
+[2020.02.01-21.44.42:043][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Insulation_Foil_INST_basecolor050E5F224A1CB14E483525BE94E85237.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_INST_basecolor.uasset'
+[2020.02.01-21.44.42:105][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Insulation_Foil_INST_normal0385E90944897721795C878D96035FEC.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_INST_normal.uasset'
+[2020.02.01-21.44.42:154][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Insulation_Foil_INST_specularC968254540A50DCD5B5BCB9D08A8ACE0.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_INST_specular.uasset'
+[2020.02.01-21.44.42:224][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Insulation_Foil_INST_roughnessE2D3D7A34BE0817BB4158D87DC1AABE3.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_INST_roughness.uasset'
+[2020.02.01-21.44.42:273][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Insulation_Foil_INST_metallicB74E163249F7841FBD9594B015C03663.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_INST_metallic.uasset'
+[2020.02.01-21.44.42:314][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Insulation_Foil_INST_ambientocclC927596D4CFF0294DACE0D8DB4E85AEE.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_INST_ambientocclusion.uasset'
+[2020.02.01-21.44.42:375][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Insulation_Foil_MAT" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_MAT.uasset" SILENT=true
+[2020.02.01-21.44.42:389][529]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Insulation_Foil_MATF6956CF5489CC16620E1438751D567F2.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Insulation_Foil_MAT.uasset'
+[2020.02.01-21.44.59:315][788]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Substance/honeycomb_tile.sbsar)
+[2020.02.01-21.45.03:153][788]LogMaterial: Display: Missing cached shader map for material Honeycomb_Tile_MAT, compiling. 
+[2020.02.01-21.45.03:270][789]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.01-21.45.03:270][789]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.01-21.45.03:270][789]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.01-21.45.08:765][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/honeycomb_tile" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/honeycomb_tile.uasset" SILENT=true
+[2020.02.01-21.45.08:770][858]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/honeycomb_tile9FDCE09D4F7C0582BFC096A2BAA6837B.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/honeycomb_tile.uasset'
+[2020.02.01-21.45.08:811][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Honeycomb_Tile_INST" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_INST.uasset" SILENT=true
+[2020.02.01-21.45.08:816][858]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Honeycomb_Tile_INST8A58D9F34F5D414A37F020B614B5C01A.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_INST.uasset'
+[2020.02.01-21.45.08:917][858]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Honeycomb_Tile_INST_basecolor3A1EF2A44A3DE83A35A00C8C96DBB0C8.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_INST_basecolor.uasset'
+[2020.02.01-21.45.08:956][858]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Honeycomb_Tile_INST_normalAC35A6364C90E076099B769EB45FA6E7.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_INST_normal.uasset'
+[2020.02.01-21.45.09:014][858]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Honeycomb_Tile_INST_specularABDF4ABC48AF5F223C5D3499605142F9.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_INST_specular.uasset'
+[2020.02.01-21.45.09:170][858]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Honeycomb_Tile_INST_roughnessD02E0E2F44DE9DC395EF519F3D817871.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_INST_roughness.uasset'
+[2020.02.01-21.45.09:391][858]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Honeycomb_Tile_INST_metallicA86195724EE4A1D615EEF4A6F266354F.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_INST_metallic.uasset'
+[2020.02.01-21.45.09:519][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Honeycomb_Tile_MAT" FILE="../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_MAT.uasset" SILENT=true
+[2020.02.01-21.45.09:555][858]LogSavePackage: Moving '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Saved/Honeycomb_Tile_MATED6801F94F1C82FDD34AD8A3BA6A9086.tmp' to '../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Content/Materials/Honeycomb_Tile_MAT.uasset'
+[2020.02.01-21.45.12:338][902]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../../Users/Liv/Documents/GitHub/GGJ2020/GGJ2020/Substance/aluminium_scratched.sbsar)
+[2020.02.01-21.45.13:447][902]LogMaterial: Display: Missing cached shader map for material Aluminium_Scratched_MAT, compiling. 
+[2020.02.01-21.45.13:573][903]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.01-21.45.13:573][903]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.01-21.45.13:573][903]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.01-21.45.16:573][942]LogRHI: Error: SyncInterval 0
+[2020.02.01-21.45.16:573][942]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1592
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.BufferDesc.Height 916
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.OutputWindow 000000000039088C
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2020.02.01-21.45.16:574][942]LogRHI: Error: SwapChainDesc.Flags 2
+[2020.02.01-21.45.16:574][942]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.02.01-21.45.16:574][942]LogD3D11RHI: [Aftermath] GDynamicRHI=000001AFB33DA140, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.02.01-21.45.16:574][942]LogWindows: Windows GetLastError: The operation completed successfully. (0)
